@@ -1,7 +1,40 @@
  
 ![image](https://github.com/user-attachments/assets/476a17f3-0903-4767-b19b-33fd21e8c077)
 
+## Copyright & License
 
+© 2025 CreateX Foundation.  
+
+Released under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA 4.0).  
+
+You may remix, adapt, and build upon this work—even commercially—as long as you credit CreateX and license your new creations under identical terms.
+
+---
+
+## Dedication
+
+> To every skeptic who secretly wonders, “Am I really creative?”—this guide is your permission slip.
+
+---
+
+## How to Use This Book
+
+- **Formats:** PDF, EPUB, and HTML (with interactive embeds).  
+- **Templates & Canvases:** Download the companion pack at [createx.us/toolkit](https://createx.us/toolkit).  
+- **Community:**  
+  Join the **#facilitators** channel in the CreateX Discord to share stories, ask questions, and access live office hours.
+
+---
+
+## Preface
+
+CreateX began with a belief that creativity is a human right—and that design thinking, amplified by AI, can help anyone exercise that right. Whether you are a teacher in Bogotá, a scrum-master in Helsinki, or a community organizer in Nairobi, this guide offers a map, a compass, and a backpack of tools for leading transformational workshops.
+
+**Outcome Promise:** By the final page you will be able to design, facilitate, and evaluate a full CreateX workshop, integrating AI fluently at every stage.
+
+---
+
+## Table of Contents
 1. **Chapter 1 — What Is Creativity?** 14  
    - **1.0** Opening Story 15  
    - **1.1** Defining Creativity 15  
